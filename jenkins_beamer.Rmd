@@ -43,4 +43,4 @@ ggplot(data = cocktails, mapping = aes(x = ingredient_number), stat = "count") +
 
 ## Link to Chad's CV
 
-
+https://stat850-unl.github.io/11-presentation-chaddybox/jenkins_CV.pdf

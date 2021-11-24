@@ -1,0 +1,12 @@
+---
+title: "Index"
+author: "Chad Jenkins"
+date: "11/24/21"
+output: html_document
+---
+
+[Markdown Beamer Slides](https://stat850-unl.github.io/11-presentation-chaddybox/jenkins_beamer.pdf)
+
+[Latex Slides](https://stat850-unl.github.io/11-presentation-chaddybox/jenkins_Latex.pdf)
+
+[CV](https://stat850-unl.github.io/11-presentation-chaddybox/jenkins_CV.pdf)
