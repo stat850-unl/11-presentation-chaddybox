@@ -1,6 +1,6 @@
 ---
 title: "Index"
-author: "Chad Jenkins"
+author: "Chad J. R. Jenkins"
 date: "11/24/21"
 output: html_document
 ---
